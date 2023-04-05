@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 
-image = Image.open('/Users/absonson/Desktop/test2/A G A T H A.png')
+image = Image.open('A G A T H A.png')
 
 col1, col2, col3 = st.columns(3)
 

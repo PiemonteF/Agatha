@@ -6,7 +6,7 @@ from PIL import Image
 
 
 
-image = Image.open('/Users/absonson/Desktop/test2/higia.png')
+image = Image.open('higia.png')
 col1, col2, col3 = st.columns(3)
 
 with col2:
