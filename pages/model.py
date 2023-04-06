@@ -164,10 +164,6 @@ with tab1:
                 st.image(image)
     
 
-   
-        
-    
-
 with tab2:
     big_df = 0
 
